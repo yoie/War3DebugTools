@@ -21,4 +21,4 @@
 ![Image text](https://github.com/yoie/War3DebugTools/blob/main/Images/3.png)
 ![Image text](https://github.com/yoie/War3DebugTools/blob/main/Images/4.png)
 # 更新 Update
-MD5:B368D6954AE567E2F308587227A4C3FA Version:Build 20220314 Bate
+* 2022-03-22 MD5:006F2F1BCF39735BDF77AD1CD988AE5A Version:Build 20220322 Bate
