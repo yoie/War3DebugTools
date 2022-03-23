@@ -52,4 +52,4 @@
 * 2022-03-22 MD5:006F2F1BCF39735BDF77AD1CD988AE5A Version:Build 20220322 Bate
 
 # 联系作者 Contact
-* Eamil : yoie_studio@163.com
+* Email : yoie_studio@163.com
