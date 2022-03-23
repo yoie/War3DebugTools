@@ -1,3 +1,7 @@
+# 兼容说明 (测试版)
+* 目前只支持 124,126版本，storm 109版本
+* 暂时不支持JAPI的解析，附加YDWE编译后的图可能存在崩溃或者闪退
+* 如部分功能无内容或者无反应可能是暂未完成功能
 # 介绍 Introduce
 ## 1、静态调试
 * 静态分析 Static Analysis
@@ -15,7 +19,7 @@
 * MDX查看器 MDX files viewer
 * BLP查看器 BLP files viewer
 * 内存监测记录查看  Memory record log viewer
-# 截图 Tools Screenshot
+# 界面截图 Tools Screenshot
 ![Image text](https://github.com/yoie/War3DebugTools/blob/main/Images/1.png)
 ![Image text](https://github.com/yoie/War3DebugTools/blob/main/Images/2.png)
 ![Image text](https://github.com/yoie/War3DebugTools/blob/main/Images/3.png)
